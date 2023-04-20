@@ -1,5 +1,7 @@
 #include <stdio.h>
 
+//simple change
+
 int main() {
   int n;
   int A[n][n], B[n][n];
